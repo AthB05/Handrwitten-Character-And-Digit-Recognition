@@ -19,8 +19,8 @@ Using javascript and flask, we were able to capture the handwritten character an
 
 
 Contributors:
-1. Backend and Framework:
-Atharva Bhor: LinkedIn- www.linkedin.com/in/atharvabhor, Email: atharvabhor@gmail.com
+1. Backend and Framework: 
+   Atharva Bhor: LinkedIn- www.linkedin.com/in/atharvabhor, Email: atharvabhor@gmail.com
 
 
 
