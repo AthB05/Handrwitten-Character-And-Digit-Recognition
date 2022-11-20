@@ -18,6 +18,11 @@ Connecting the front end to the model and Deployment
 Using javascript and flask, we were able to capture the handwritten character and send it to the model which predicted the character and returned the label value, using which the flask was able to display the letter.
 
 
+Contributors:
+1. Backend and Framework:
+Atharva Bhor: LinkedIn- www.linkedin.com/in/atharvabhor, Email: atharvabhor@gmail.com
+
+
 
 
  
